@@ -1174,6 +1174,21 @@ transform: rotate(3deg)scale(1.1);
 
 }
 
+
+
+@media (max-width: 700px) {
+.carousel{
+    display: none !important;
+    }
+}
+
+
+
+
+
+
+
+
 .button-stare-vidoes {
     width: fit-content;
     height: fit-content;
